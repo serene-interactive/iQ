@@ -102,4 +102,4 @@ _All iQ™ slash commands are grouped below by category. For privacy and terms, 
 
 ---
 
-_For suggestions or feedback: [ROSY Discord](https://discord.gg/rosy) | Email: sig@engineer.com_
+_For suggestions or feedback: [ROSY Discord](https://discord.gg/rosy) | Email: support@sereneinteractive.com_
