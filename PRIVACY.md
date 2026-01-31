@@ -44,4 +44,4 @@ Contact Information
 
 For privacy-related questions, please contact:  
 - ROSY Discord server: https://discord.gg/rosy  
-- Email: sig@engineer.com
+- Email: support@sereneinteractive.com
