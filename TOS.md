@@ -68,4 +68,4 @@ Contact Information
 
 For questions regarding these Terms, please contact:  
 - ROSY Discord server: https://discord.gg/rosy  
-- Email: sig@engineer.com
+- Email: support@sereneinteractive.com
