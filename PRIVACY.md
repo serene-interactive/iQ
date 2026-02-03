@@ -1,4 +1,4 @@
-Last Updated: 07/02/2025
+**Last Updated: February 2, 2026**
 
 Welcome to iQ™, developed and operated by Serene Interactive, Global (SiG). This Privacy Policy explains how we handle your information when you use iQ™. By accessing or using iQ™, you agree to the terms of this Privacy Policy.
 
@@ -24,7 +24,7 @@ User Responsibility
 
 Service Limitations
 
-7. iQ™ is a free, single-developer project with limited uptime and no guaranteed continuous availability.
+7. iQ™ is a free, early-development project with limited uptime and no guaranteed continuous availability.
 
 8. Serene Interactive, Global (SiG) reserves the right to suspend or terminate access to iQ™ at any time without prior notice.
 
