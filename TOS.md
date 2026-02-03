@@ -1,4 +1,4 @@
-Last Updated: 07/02/2025
+**Last Updated: February 2, 2026**
 
 Welcome to iQ™, developed and operated by Serene Interactive, Global (SiG). By accessing or using iQ™, you agree to comply with and be bound by the following Terms of Service (“Terms”). Please read them carefully.
 
@@ -34,7 +34,7 @@ Data and Privacy
 
 Service Availability
 
-9. iQ™ is provided as-is, with limited uptime and support due to being a single-developer project.
+9. iQ™ is provided as-is, with limited uptime and support due to its early development stage. 
 
 10. We do not guarantee continuous availability or uninterrupted service.
 
